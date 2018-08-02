@@ -16,4 +16,4 @@ galaxy_info:
    - marathon
 
 dependencies: 
-   - { role: dciangot.ansible-role-docker }
+   - { role: dciangot.ansible_role_docker }
